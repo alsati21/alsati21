@@ -52,8 +52,8 @@ Building scalable mobile applications, intelligent systems, and real-world softw
 - Dart
 - PHP (Basic understanding)
 - C++
-- C
-- Prolog
+- C#
+- java
 
 ## 🔧 Tools & Technologies
 - Git & GitHub
