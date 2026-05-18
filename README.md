@@ -117,7 +117,8 @@ Artificial Intelligence project based on Prolog:
 ---
 
 # 🤝 Contact
-- GitHub: https://github.com/alsati21  
+- GitHub: https://github.com/alsati21
+- email:alsatyywsf35@gmail.com
 
 ---
 
